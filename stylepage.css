@@ -1,0 +1,23 @@
+header {
+	color: black;
+	text-align: center;
+	font-size: 3em;
+	background-color: green;
+}
+h1, h2 {
+	color: blue;
+	text-align: center;
+}
+
+img {
+	border-radius: 60%;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+div.thoughts {
+	font-style: italic;
+}
+
+
